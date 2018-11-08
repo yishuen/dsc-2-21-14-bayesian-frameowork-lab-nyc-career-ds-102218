@@ -11,7 +11,7 @@ You will be able to:
 
 - Understand and describe the Bayesian Inference framework
 - Evaluate the impact of evidence on posterior probabilities
-- Run Bayesian simulations for simple problems in python, numpy and matplotlib. 
+- Run Bayesian simulations for simple problems in python, numpy and matplotlib 
 
 ## Problem - coins again !!
 
